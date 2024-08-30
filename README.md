@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá eu sou Carol
+-Sou bancario e estudante na ALURA
+
+!{}https://c.tenor.com/gqtb0GEpPwwAAAAC/tenor.gif
 
 <!--
 **carol-999/carol-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
