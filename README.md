@@ -1,7 +1,9 @@
-## Olá eu sou Carol
--Sou bancario e estudante na ALURA
+## Olá sejam bem vindos ao meu perfil!!
+-meu nome é Carol
+-estou estudando na ALURA
+-estou desenvolvendo a linguagem javascript
 
-!{}https://c.tenor.com/gqtb0GEpPwwAAAAC/tenor.gif
+!{}(https://c.tenor.com/gqtb0GEpPwwAAAAC/tenor.gif)
 
 <!--
 **carol-999/carol-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
