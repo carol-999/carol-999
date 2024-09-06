@@ -3,6 +3,7 @@
 -estou estudando na ALURA
 -estou desenvolvendo a linguagem javascript
 
-!{}(https://media.tenor.com/cRH9aB8j8m4AAAAM/cat-dance-slow-dance.gif)
+!{}(![image](https://github.com/user-attachments/assets/9a2e8d20-10f8-4150-8e09-b0b38ab083ac)
+)
 
 
